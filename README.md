@@ -1,0 +1,2 @@
+# Solhint config for Mimic
+
