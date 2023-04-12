@@ -3,6 +3,7 @@ module.exports = {
   plugins: ["prettier"],
   rules: {
     "quotes": "off",
+    "no-global-import": "off",
     "func-param-name-mixedcase": "error",
     "modifier-name-mixedcase": "error",
     "reason-string": ["error", { "maxLength": 32 }],
