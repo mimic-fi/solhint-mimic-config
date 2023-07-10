@@ -12,6 +12,7 @@ module.exports = {
     "reentrancy": ["off"],
     "not-rely-on-time": ["off"],
     "no-inline-assembly": "off",
+    "func-name-mixedcase": "off",
     "private-vars-leading-underscore": "off",
     "prettier/prettier": "error",
   }
